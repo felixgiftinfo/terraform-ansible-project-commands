@@ -26,6 +26,7 @@
     sudo amazon-linux-extras install ansible2 -y
 
 9. create inventory file
+    it contain private_id of the target node to configure
 
 10. create playbook
 
